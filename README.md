@@ -19,11 +19,9 @@
 - 단계 : 데이터 수집 - 텍스트 전처리 - 토픽 개수 설정 - LDA 모델 학습 - 토픽 추출 - 토픽 시각화
 - 토픽 개수 설정 : Coherence Scores (일관성 점수), Perplexity Scores (복잡도 점수) 를 비교하여 긍정적/부정적인 리뷰에서 모두 최적의 토픽수를 2개로 결정했습니다.
   
-  ![긍정적 리뷰](https://github.com/estskyway/project_data_analystics/assets/132973368/944b5ea2-0e28-4a7e-bf85-637120382198)
-  ![부정적 리뷰](https://github.com/estskyway/project_data_analystics/assets/132973368/3fbdf74f-471b-47ba-a729-080011696035)
-
-
-
+  | 긍정적 리뷰 토픽 갯수 | 부정적 리뷰 토픽 갯수 |
+  |---|---|
+  |||
 <br>
 
 ### 4. LDA 토픽 모델링 시각화
