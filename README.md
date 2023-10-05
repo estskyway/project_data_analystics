@@ -27,12 +27,11 @@
   
   |긍정적 평점의 리뷰 토픽 모델링 시각화 결과|
   |---|
-  | ![그림](https://github.com/estskyway/project_data_analystics/blob/main/datasets/visualization_positive.png)
+  | ![그림](https://github.com/estskyway/project_data_analystics/blob/main/datasets/visualization_positive.png)|
 
- ![그림](https://github.com/estskyway/project_data_analystics/blob/main/datasets/visualization_positive.png)
-  <div style="text-align: center;">
-    이 영역은 가운데 정렬됩니다.
-</div> |
+<p align="center">
+  <img src="[이미지_파일_경로](https://github.com/estskyway/project_data_analystics/blob/main/datasets/visualization_positive.png)" alt="이미지 대체 텍스트">
+</p>
   
   |부정적 평점의 리뷰 토픽 모델링 시각화 결과|
   |---|
