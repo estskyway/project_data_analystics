@@ -25,7 +25,7 @@
 - 긍정적인 및 부정적인 리뷰에 대해 LDA 토픽 모델링을 수행하고 시각화 작업을 진행했습니다.
 - 아래 그림은 pyLDAvis를 통해 시각화한 자료입니다.
   
-  [![image]([https://github.com/estskyway/project_data_analystics/assets/132973368/fe482c52-07b0-4ac3-87b9-bce83e0306a9](https://github.com/estskyway/project_data_analystics/blob/main/datasets/visualization_positive.png))](datasets/visualization_positive.png)
+  [![그림](https://github.com/estskyway/project_data_analystics/assets/132973368/fe482c52-07b0-4ac3-87b9-bce83e0306a9)(https://github.com/estskyway/project_data_analystics/blob/main/datasets/visualization_positive.png))](datasets/visualization_positive.png)
 
 
 <br>
