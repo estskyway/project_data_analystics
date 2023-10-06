@@ -32,7 +32,7 @@
 - 긍정적인 및 부정적인 리뷰에 대해 LDA 토픽 모델링을 수행하고 시각화 작업을 진행했습니다.
 - 아래 그림은 pyLDAvis를 통해 시각화한 자료입니다.
     
-  |❤️긍정적 평점의 리뷰 토픽 모델링 시각화 결과 [(링크)](https://github.com/estskyway/project_data_analystics/datasets/visualization_positive.html)|
+  |❤️긍정적 평점의 리뷰 토픽 모델링 시각화 결과 [(링크)](https://estskyway.github.io/project_data_analystics/datasets/visualization_positive.html)|
   |:----:|
   |![긍정리뷰 모델링](https://github.com/estskyway/project_data_analystics/blob/main/datasets/positive%EC%8B%9C%EA%B0%81%ED%99%94.gif)|
 
