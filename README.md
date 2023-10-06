@@ -21,9 +21,9 @@
 - 가장 높은 일관성 점수를 가지고 가장 낮은 복잡도 점수를 가지는 토픽 수를 선택합니다.
   
   ![image](https://github.com/estskyway/project_data_analystics/assets/132973368/fa5d3974-ed5d-402e-9118-57315350d2e1)
-
-  | 긍정적 리뷰 토픽 갯수 | 부정적 리뷰 토픽 갯수 |
-  |---|---|
+ 
+  | 긍정적 리뷰 토픽 갯수 | 부정적 리뷰 토픽 갯수 | 
+  |:---:|:---:|
   |![image](https://github.com/estskyway/project_data_analystics/assets/132973368/d8fa0f5f-9950-4e49-8625-562c8dcf7c77)| ![image](https://github.com/estskyway/project_data_analystics/assets/132973368/343b4af8-38bd-4672-bd37-74d8f8bab5dc)|
 <br>
 
@@ -31,14 +31,16 @@
 - 평점이 5점 만점인 리뷰를 분석하여 1-2점은 부정적, 3-5점은 긍정적으로 분류했습니다.
 - 긍정적인 및 부정적인 리뷰에 대해 LDA 토픽 모델링을 수행하고 시각화 작업을 진행했습니다.
 - 아래 그림은 pyLDAvis를 통해 시각화한 자료입니다.
-  
+    
   |❤️긍정적 평점의 리뷰 토픽 모델링 시각화 결과 [(링크)](https://github.com/estskyway/project_data_analystics/datasets/visualization_positive.html)|
-  |---|
-  | ![긍정리뷰 모델링](https://github.com/estskyway/project_data_analystics/blob/main/datasets/positive%EC%8B%9C%EA%B0%81%ED%99%94.gif) |
-  
+  |:----:|
+  |<center>![긍정리뷰 모델링](https://github.com/estskyway/project_data_analystics/blob/main/datasets/positive%EC%8B%9C%EA%B0%81%ED%99%94.gif)</center>|
+
+    
   |💔부정적 평점의 리뷰 토픽 모델링 시각화 결과 [(링크)](https://github.com/estskyway/project_data_analystics/datasets/visualization_negative.html)|
-  |---|
-  | ![부정리뷰 모델링](https://github.com/estskyway/project_data_analystics/blob/main/datasets/negative%EC%8B%9C%EA%B0%81%ED%99%94.gif)|
+  |:---:|
+  |<center>![부정리뷰 모델링](https://github.com/estskyway/project_data_analystics/blob/main/datasets/negative%EC%8B%9C%EA%B0%81%ED%99%94.gif)</center>|
+  
 <br>
 
 ### 5. 인사이트 도출
