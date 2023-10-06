@@ -24,7 +24,7 @@
  
   | 긍정적 리뷰 토픽 갯수 | 부정적 리뷰 토픽 갯수 | 
   |:---:|:---:|
-  |![image](https://github.com/estskyway/project_data_analystics/assets/132973368/d8fa0f5f-9950-4e49-8625-562c8dcf7c77)| ![image](https://github.com/estskyway/project_data_analystics/assets/132973368/343b4af8-38bd-4672-bd37-74d8f8bab5dc)|
+  |![image](https://github.com/estskyway/project_data_analystics/blob/main/datasets/positive.png)| ![image](https://github.com/estskyway/project_data_analystics/blob/main/datasets/negative.png)|
 <br>
 
 ### 4. LDA 토픽 모델링 시각화
