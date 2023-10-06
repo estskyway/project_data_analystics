@@ -10,7 +10,7 @@
 - 전처리 목적 데이터셋
   
   | 불용어 리스트 | 단어 치환 리스트 | 1글자 키워드 리스트 |
-  |----|------|------|
+  |------|------|------|
   |[Stop_word](https://github.com/estskyway/project_data_analystics/blob/main/datasets/stopword_concat.xlsx)| [Replace_word](https://github.com/estskyway/project_data_analystics/blob/main/datasets/replace_concat.xlsx)|[One_Word](https://github.com/estskyway/project_data_analystics/blob/main/datasets/oneword_concat.xlsx)|
 <br>
 
@@ -32,14 +32,14 @@
 - 긍정적인 및 부정적인 리뷰에 대해 LDA 토픽 모델링을 수행하고 시각화 작업을 진행했습니다.
 - 아래 그림은 pyLDAvis를 통해 시각화한 자료입니다.
     
-  |❤️긍정적 평점의 리뷰 토픽 모델링 시각화 결과 [(링크)](https://github.com/estskyway/project_data_analystics/datasets/visualization_positive.html)|
+  |❤️긍정적 평점의 리뷰 토픽 모델링 시각화 결과 [(링크)](https://estskyway.github.io/project_data_analystics/datasets/visualization_positive.html)|
   |:----:|
-  |<center>![긍정리뷰 모델링](https://github.com/estskyway/project_data_analystics/blob/main/datasets/positive%EC%8B%9C%EA%B0%81%ED%99%94.gif)</center>|
+  |![긍정리뷰 모델링](https://github.com/estskyway/project_data_analystics/blob/main/datasets/positive%EC%8B%9C%EA%B0%81%ED%99%94.gif)|
 
     
-  |💔부정적 평점의 리뷰 토픽 모델링 시각화 결과 [(링크)](https://github.com/estskyway/project_data_analystics/datasets/visualization_negative.html)|
+  |💔부정적 평점의 리뷰 토픽 모델링 시각화 결과 [(링크)](https://estskyway.github.io/project_data_analystics/datasets/visualization_negative.html)|
   |:---:|
-  |<center>![부정리뷰 모델링](https://github.com/estskyway/project_data_analystics/blob/main/datasets/negative%EC%8B%9C%EA%B0%81%ED%99%94.gif)</center>|
+  |![부정리뷰 모델링](https://github.com/estskyway/project_data_analystics/blob/main/datasets/negative%EC%8B%9C%EA%B0%81%ED%99%94.gif)|
   
 <br>
 
