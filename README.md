@@ -10,7 +10,7 @@
 - 전처리 목적 데이터셋
   
   | 불용어 리스트 | 단어 치환 리스트 | 1글자 키워드 리스트 |
-  |----|------|------|
+  |------|------|------|
   |[Stop_word](https://github.com/estskyway/project_data_analystics/blob/main/datasets/stopword_concat.xlsx)| [Replace_word](https://github.com/estskyway/project_data_analystics/blob/main/datasets/replace_concat.xlsx)|[One_Word](https://github.com/estskyway/project_data_analystics/blob/main/datasets/oneword_concat.xlsx)|
 <br>
 
