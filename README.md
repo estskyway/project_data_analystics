@@ -34,12 +34,12 @@
     
   |❤️긍정적 평점의 리뷰 토픽 모델링 시각화 결과 [(링크)](https://github.com/estskyway/project_data_analystics/datasets/visualization_positive.html)|
   |:----:|
-  |<center>![긍정리뷰 모델링](https://github.com/estskyway/project_data_analystics/blob/main/datasets/positive%EC%8B%9C%EA%B0%81%ED%99%94.gif)</center>|
+  |![긍정리뷰 모델링](https://github.com/estskyway/project_data_analystics/blob/main/datasets/positive%EC%8B%9C%EA%B0%81%ED%99%94.gif)|
 
     
   |💔부정적 평점의 리뷰 토픽 모델링 시각화 결과 [(링크)](https://github.com/estskyway/project_data_analystics/datasets/visualization_negative.html)|
   |:---:|
-  |<center>![부정리뷰 모델링](https://github.com/estskyway/project_data_analystics/blob/main/datasets/negative%EC%8B%9C%EA%B0%81%ED%99%94.gif)</center>|
+  |![부정리뷰 모델링](https://github.com/estskyway/project_data_analystics/blob/main/datasets/negative%EC%8B%9C%EA%B0%81%ED%99%94.gif)|
   
 <br>
 
