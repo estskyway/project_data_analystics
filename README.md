@@ -5,7 +5,7 @@
 <br>
 구글 플레이 스토어의 총 9개의 앱에서 약 2800 건의 리뷰를 수집했으며, LDA 토픽 모델링을 통해 고객의 다양한 요구 사항을 심층적으로 분석했습니다.
 <br>
-<div>### 1-1 프로젝트 기간: 09.18 - 10.17</div>
+<div>1-1 프로젝트 기간: 09.18 - 10.17</div>
 ### 1-2 팀원 : 김민정, 김혜인, 봉원희, 임거산
 ### 1-3 사이트: [ProjectFitness](https://project-fitness-ddxja.run.goorm.site/)
 ### ![main](src/main/resources/static/Image/README/main.png)
