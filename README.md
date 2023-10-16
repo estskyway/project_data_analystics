@@ -7,7 +7,6 @@
 <br>
 - 1-1. 프로젝트 기간: 09.18 - 10.17
 - 1-2. 팀원 : 김혜인(PM),김민정, 봉원희, 임거산
-- 1-3. 사이트: [ProjectFitness](https://project-fitness-ddxja.run.goorm.site/)
 
 ### 2. Dataset
 - 구글 플레이 스토에 내 건강 및 운동 관리를 위한 앱 9개에서 리뷰 약 2800건 수집
