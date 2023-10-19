@@ -32,7 +32,7 @@ import pickle
 #     "texture_mean": 18.5,
 #     "perimeter_mean": 102.1
 # }
-@app.post('/api_v1/mlmodelwithregression') 
+@app.post('/api_v1/sentimentmachine') 
 def mlmodelwithregression(data:dict) : # json
     print('data with dict {}'.format(data))
     
@@ -66,5 +66,5 @@ def mlmodelwithregression(data:dict) : # json
         pass
 
     # 예측값 리턴
-    result = {'댓글 분석':result_predict[0]}
+    result = {'SENTIMENT':result_predict[0]}
     return result  
